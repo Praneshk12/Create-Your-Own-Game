@@ -5,7 +5,7 @@ const Constraint = Matter.Constraint;
 
 var BG_Img;
 function preload() {
-    BG_Img = loadImage("sprites/pac-maze.png");
+    BG_Img = loadImage("pac-maze.png");
 }
 
 function setup(){
